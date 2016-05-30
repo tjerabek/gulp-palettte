@@ -1,0 +1,25 @@
+{
+  "name": "gulp-palettte",
+  "version": "0.0.1",
+  "description": "Gulp task for downloading styles from Palettte.co",
+  "license": "MIT",
+  "author": "Tomas Jerabek <t.jerabek@gmail.com>",
+  "contributors": [],
+  "repository": "",
+  "keywords": [
+    "gulpplugin",
+    "download",
+    "palettte",
+    "styles",
+    "css"
+  ],
+  "dependencies": {
+    "gulp-util": "^3.0.7",
+    "gulp-download-stream": "^0.0.13"
+  },
+  "main": "index.js",
+  "devDependencies": {
+  },
+  "scripts": {
+  }
+}
